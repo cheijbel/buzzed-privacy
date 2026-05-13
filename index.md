@@ -97,7 +97,7 @@ Buzzed is rated 17+ on the App Store because it is an alcohol-themed application
 
 For questions or concerns about this privacy policy, contact the developer at:
 
-**<heijbelcarl@gmail.com**
+**heijbelcarl@gmail.com**
 
 ---
 
