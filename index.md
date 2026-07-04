@@ -1,57 +1,62 @@
-  # Buzzed
+  # Buzzed — Privacy Policy
 
-  Buzzed is your pocket bartender, buzz meter, and party-game companion — built by
-  Carl Heijbel (Heijbel Apps), an independent developer in Sweden. Everything runs
-  offline on your device.
+  _Last updated: 4 July 2026_
 
-  ---
+  **Buzzed does not collect any of your data.**
 
-  ## Support
+  Buzzed has no accounts, no servers, no analytics, and no ads. Everything you do
+  in the app stays on your device.
 
-  Need help, found a bug, or want a cocktail or feature added?
+  ## Information stored on your device
 
-  **Email: [heijbelapps@gmail.com](mailto:heijbelapps@gmail.com)** — every message is read.
+  The following is created by you and stored **only on your device** (in the
+  device's local app storage). It never leaves your phone and is never sent to us:
 
-  You can also reach this from inside the app: **Settings → Feedback → "Request a
-  feature or cocktail."**
+  - Your logged drinks and the optional body inputs for the Buzz Meter (blood-alcohol estimate)
+  - Cocktails you save or create
+  - Your party-game edition choices
+  - A one-time flag recording that you confirmed you are of legal drinking age
 
-  When reporting a problem, it helps to include your iPhone model and iOS version.
+  Uninstalling the app, or clearing its storage, permanently deletes all of the above.
 
-  ---
+  ## Purchases
 
-  ## Privacy Policy
+  Buzzed offers one optional one-time in-app purchase that unlocks the premium
+  party-game editions. The purchase is processed entirely by your app store's
+  billing system (the Apple App Store or Google Play). Buzzed never receives or
+  stores your name, payment details, or App Store / Google account. Your purchase
+  entitlement is held by your app store account and restored by it.
 
-  _Last updated: 2026-06-28_
+  ## Information we do NOT collect
 
-  ### The short version
-  Buzzed does not collect any of your data. It has no accounts, no servers, no
-  analytics, no ads, and makes no network calls. Everything works fully offline.
+  - We do **not** run any server or send your recipes, drink log, Buzz Meter inputs, or
+  selections off your device.
+  - We do **not** collect your name, email, phone number, or contacts.
+  - We do **not** collect location.
+  - We do **not** use advertising identifiers or show ads.
+  - We do **not** use third-party analytics or crash-reporting SDKs.
+  - We do **not** create accounts or require sign-in.
 
-  ### What's stored
-  Everything you do in Buzzed — saved cocktails, your own recipes, drink logs, and
-  preferences (such as weight and height for the buzz meter) — is stored **only on
-  your device** using iOS UserDefaults. It never leaves your phone, and we never
-  see it.
+  Buzzed makes no network calls of its own. The only network activity is the
+  optional in-app purchase, which is handled entirely by your app store.
 
-  ### What we don't collect
-  We do not collect, transmit, or have access to any personal data, including:
-  contact information, location, photos, device identifiers, usage analytics,
-  health data, or advertising identifiers. The app contacts no third-party services.
+  ## Health & safety
 
-  ### Purchases
-  The optional "Premium Editions" in-app purchase is processed entirely by Apple.
-  We never receive your name, payment details, or Apple ID. Purchases restore across
-  your devices through your Apple ID.
+  The Buzz Meter blood-alcohol figure is an **approximation for informational and
+  entertainment purposes only**. It cannot account for individual physiology,
+  medication, food, or other factors. **Never rely on it to decide whether it is
+  safe to drive or operate machinery.** Always drink responsibly.
 
-  ### Children
-  Buzzed is intended for adults of legal drinking age and is rated 17+.
+  ## Children
 
-  ### Changes
-  If this policy ever changes, the updated version will be posted on this page with
-  a new date above.
+  Buzzed contains alcohol-related content and is intended only for adults of legal
+  drinking age. The app shows an age-affirmation gate on first launch.
 
-  ### Contact
-  Questions about this policy? Email
-  **[heijbelapps@gmail.com](mailto:heijbelapps@gmail.com)**.
+  ## Changes
 
-  This policy is governed by Swedish law.
+  We may update this policy from time to time; material changes are reflected by
+  the "Last updated" date above.
+
+  ## Contact
+
+  Questions: **heijbelapps@gmail.com**
